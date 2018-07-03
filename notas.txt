@@ -1,0 +1,36 @@
+Backend con node js
+
+Oscar Chil
+App -*
+dev - fullstack
+
+Node js
+Crear API's
+mean [mongo, express, angular, node]
+
+aws -lambdas*
+
+aws- mongo - mongoLab
+heroku - subir/deploy proyecto node
+GitHub - controlador de versiones
+
+1) Instalar Node.js de la pagina nodejs.org
+npm = manejador de paquetes
+(version del curso instalada v8.11.3)
+2) Instalar Mongo DB
+de la pagina mongodb.com
+3)Descargar Mongo Compass -> modo grafico para gestionar
+mongo db
+
+Heroku-> integracion continua, despliegue continuo
+QA, permite crear ambientes, para produccion/desarrollo
+
+Github -> ramas de : produccion/desarrollo
+
+Mongo: usuario{Pyke}contraseña{4 espacios en blanco}
+Dominio { . } /significa que es local
+lo anterior no lo reconocio 7:03 p. m. 2/07/2018
+-------------------------------------------
+ServiceName MongoDB
+
+Otra opcion, es crear una cuenta en mlab.com
