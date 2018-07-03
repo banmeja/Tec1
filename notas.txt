@@ -34,3 +34,23 @@ lo anterior no lo reconocio 7:03 p. m. 2/07/2018
 ServiceName MongoDB
 
 Otra opcion, es crear una cuenta en mlab.com
+----
+Crear primera base de datos
+1)Correr MONGO desde el acceso directo
+
+La coleccion: son las tablas 
+jpt:tokens,seguridad
+apis,
+
+Schemas: son los modelos, 
+Por ejemplo: Usser-> id, number, phone, name
+Explain Plan: ver archivos
+Indexes: mongo genera el _id (numeros y letras)
+validation: son las reglas, por ej, los roles para conexiones
+
+Querys en mongo (por ejemplo, filtros por fecha)
+codear
+
+git-flow cheatsheet /pagina para ver como se utiliza git
+cada ticket es un feature
+bug-fix
