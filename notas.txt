@@ -54,3 +54,17 @@ codear
 git-flow cheatsheet /pagina para ver como se utiliza git
 cada ticket es un feature
 bug-fix
+
+git: git flow init: crea las diferentes ramas,
+la rama de support,no se usa a menos que sea un ticket
+
+Iniciar proyectoNPM:
+npm init
+
+name:
+version:
+entry point : index.js
+test comand
+
+el archivo que se genera, es package.json : contiene
+la información del proyecto
